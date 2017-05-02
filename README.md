@@ -2,7 +2,7 @@
 
 This tutorial goes over the basics of image acquisition, processing and analysis, by using the 20 layer Residual Network.
 
-##Goals of the tutorial-
+## Goals of the tutorial-
 * Learn about the basics of classification
 * Learn to understand and implement the ResNET in Tensorflow
 * Visualizing models in Tensorboard
